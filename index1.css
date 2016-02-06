@@ -1,0 +1,29 @@
+.wrap{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 41%;
+	background-color: #5b7cb8;
+	/*background-color: #ffb31a;*/
+	padding: 50px 50px;
+
+
+}
+h2,a{
+	font-family: 'Lato', sans-serif;
+}
+a{
+	text-decoration: none;
+	margin-right: 40px;
+	color:white;
+}
+a:hover{
+	text-decoration: underline;
+}
+.img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -100;
+}

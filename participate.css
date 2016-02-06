@@ -1,0 +1,28 @@
+.label{
+	float: left;
+	width: 200px;
+}
+#submit{
+	margin-left: 200px;
+}
+.page{
+	position: absolute;
+	top: 60px;
+	margin-left: 43%;
+}
+.form{
+	position: absolute;
+	top: 150px;
+	left: 33%;
+	background-color: #4197ee;
+	padding: 50px 80px;
+}
+.logout{
+	position: absolute;
+	top: 30px;
+	right: 20px;
+	text-decoration: none;
+}
+.logout:hover{
+	text-decoration: underline;
+}
